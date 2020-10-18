@@ -1,0 +1,13 @@
+C:\Users\Gorka\source\repos\KAIXO\bin\Debug\netcoreapp3.1\KAIXO.exe
+C:\Users\Gorka\source\repos\KAIXO\bin\Debug\netcoreapp3.1\KAIXO.deps.json
+C:\Users\Gorka\source\repos\KAIXO\bin\Debug\netcoreapp3.1\KAIXO.runtimeconfig.json
+C:\Users\Gorka\source\repos\KAIXO\bin\Debug\netcoreapp3.1\KAIXO.runtimeconfig.dev.json
+C:\Users\Gorka\source\repos\KAIXO\bin\Debug\netcoreapp3.1\KAIXO.dll
+C:\Users\Gorka\source\repos\KAIXO\bin\Debug\netcoreapp3.1\KAIXO.pdb
+C:\Users\Gorka\source\repos\KAIXO\obj\Debug\netcoreapp3.1\KAIXO.vbprojAssemblyReference.cache
+C:\Users\Gorka\source\repos\KAIXO\obj\Debug\netcoreapp3.1\KAIXO.AssemblyInfoInputs.cache
+C:\Users\Gorka\source\repos\KAIXO\obj\Debug\netcoreapp3.1\KAIXO.AssemblyInfo.vb
+C:\Users\Gorka\source\repos\KAIXO\obj\Debug\netcoreapp3.1\KAIXO.vbproj.CoreCompileInputs.cache
+C:\Users\Gorka\source\repos\KAIXO\obj\Debug\netcoreapp3.1\KAIXO.dll
+C:\Users\Gorka\source\repos\KAIXO\obj\Debug\netcoreapp3.1\KAIXO.pdb
+C:\Users\Gorka\source\repos\KAIXO\obj\Debug\netcoreapp3.1\KAIXO.genruntimeconfig.cache
